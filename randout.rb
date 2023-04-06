@@ -1,6 +1,6 @@
 # Workout tool
 
-minimum_difficulty = 0 #specify the minimum workout difficulty index for generation. Maximum theoretical WDI is 69 (nice)
+minimum_difficulty = 0 #specify the minimum workout difficulty index for generation. Maximum recommended WDI is 69 (nice), but 70 has been achieved after a long wait. The example of a workout with intense difficulty can be found in the README.
 
 WEIGHTS = {
   easy: 1,
